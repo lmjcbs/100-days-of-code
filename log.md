@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 24, 2019
-##### (delete me or comment me out)
 
 **Today's Progress**: Worked on Object Oriented Programming and practised basic Algorithm Scripting on #freeCodeCamp
 
