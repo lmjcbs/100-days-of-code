@@ -23,3 +23,11 @@
 **Thoughts:** Working on the rock-paper-scissor game was fun, as this was a challenge I first attempted when I began to learn javscript around 3 months ago. Coming back to the challenge now and I was easily able to structure the program much quicker than before. I did get stuck on an issue to do with control, however I decided to come back to the issue a day later and was easily able to now solve the issue.
 
 **Link to work:**  https://github.com/lmjcbs/rock-paper-scissors
+
+### Day 4: July 5, 2019
+
+**Today's Progress**: Continued working on TheOdinProject's fullstack javascript course. Worked through the webdev fundementals 4 exercises and completed them all.
+
+**Thoughts:** Through working on the exercises, I got exposure to javascript unit testing with jasmine. Learned how to setup jasmine and test my code using pre-written tests. This helped make me aware of making sure that functions I write work in different conditions and when non expected arguments are passed through.
+
+**Link to work:**  https://github.com/lmjcbs/javascript-exercises
