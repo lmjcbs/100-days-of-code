@@ -31,3 +31,21 @@
 **Thoughts:** Through working on the exercises, I got exposure to javascript unit testing with jasmine. Learned how to setup jasmine and test my code using pre-written tests. This helped make me aware of making sure that functions I write work in different conditions and when non expected arguments are passed through.
 
 **Link to work:**  https://github.com/lmjcbs/javascript-exercises
+
+### Day 5: July 6, 2019
+
+**Today's Progress**: Played around with the DOM, adding some interactivity to previous projects and learned about regular expressions on #freeCodeCamp
+
+**Thoughts:** Found the DOM work quite challenging. Will need to work some more on it.
+
+**Link to work:**  https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
+### Day 6: July 7, 2019
+
+**Today's Progress**: Finished up work on my rock paper scissors project. Decided to refactor my code and go over it step-by-step, deciding what was really needed and what wasn't. Also learned how to push a project online using Github Pages.
+
+**Thoughts:** Although refacotring my code was a useful exercise, I found it difficult to do as much as I had hoped, as I feel as if I coded the project to the best of ability already, making it hard to see obvious improvements. I talked to the people on Discord and told me that it's not so much about finding the optimal solution, but cutting out unused code or finding a simpler way to explain things would be better. Using this advice and also taking a look at other student's completed projected helped give me some fresh inspiration.
+
+**Link to work:**  https://github.com/lmjcbs/rock-paper-scissors
+
+
