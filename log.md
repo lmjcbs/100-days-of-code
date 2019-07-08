@@ -48,4 +48,13 @@
 
 **Link to work:**  https://github.com/lmjcbs/rock-paper-scissors
 
+### Day 7: July 8, 2019
+
+**Today's Progress**: Went back to my rock-paper-scissors game and managed to implement some features I was stuck on before. Managed to solve all of the new problems as they came up. DOM manipulation slowly making more sense.
+
+**Thoughts:** Making some more progress today felt good, especially as I was able to just think through the issues as they came up and solve them one at a time instead of getting completely stuck. Managed to impleted the reset functionality much fast then expected. Everything seemed to just flow.
+
+**Link to work:**  https://github.com/lmjcbs/rock-paper-scissors
+
+
 
